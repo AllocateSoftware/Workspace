@@ -1,0 +1,12 @@
+[submodule "Environment"]
+	path = Environment
+	url = https://github.com/AllocateSoftware/Environment
+[submodule "Platform"]
+	path = Platform
+	url = https://github.com/AllocateSoftware/Platform
+[submodule "Lib"]
+	path = Lib
+	url = https://github.com/AllocateSoftware/Lib.git
+[submodule "Products/HealthRoster"]
+	path = Products/HealthRoster
+	url = https://github.com/AllocateSoftware/HealthRoster.git
